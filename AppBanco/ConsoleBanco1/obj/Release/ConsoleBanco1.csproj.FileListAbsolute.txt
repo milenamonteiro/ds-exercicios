@@ -1,0 +1,11 @@
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Release\ConsoleBanco1.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Release\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Release\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Release\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Release\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Release\ConsoleBanco1.pdb

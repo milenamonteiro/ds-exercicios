@@ -1,0 +1,18 @@
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.config
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.pdb
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csprojAssemblyReference.cache
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe
+C:\Users\3aetim\source\repos\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.application

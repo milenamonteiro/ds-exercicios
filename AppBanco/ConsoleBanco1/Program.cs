@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.SqlClient;
+using System.Text.RegularExpressions;
+using static System.Console;
 
 namespace ConsoleBanco1
 {
@@ -11,25 +8,33 @@ namespace ConsoleBanco1
     {
         static void Main(string[] args)
         {
+            //new SqlCommand("DELETE FROM TBUsuario WHERE IdUsu = 4", conexao).ExecuteNonQuery();//deletar
+            //new SqlCommand("UPDATE TBUsuario SET NomeUsu= 'ME ACHO ESPERTA 3000' WHERE IdUsu = 2", conexao).ExecuteNonQuery();//atualizar
+            //new SqlCommand("INSERT INTO TBUsuario (NomeUsu,Cargo,Data) VALUES ('Emma', 'Cerimonialista','04/17/2000')", conexao).ExecuteNonQuery();//inserir
+            //regex: ^((0|1)\d{1})/((0|1|2)\d{1})/((19|20)\d{2})
+
+            WriteLine("Digite o nome do usuário");
+            string vnome = ReadLine();
+
+            WriteLine("Digite o cargo do usuário");
+            string vcargo = ReadLine();
+
+            WriteLine("Digite a data de nascimento do usuário (mm/dd/yyyy)");
+            string vdata = ReadLine();
 
             SqlConnection conexao = new SqlConnection(Properties.Settings.Default.conexao);
-            //SqlConnection conexao = new SqlConnection(@"Data Source = DESKTOP-UEGTNEB;//conexão via codigo
-            //Initial Catalog = DBExemplo;
-            //User ID= sa; Password = 1234567;");
             conexao.Open();
 
-           // string strSelecionaUsu = "Select * From TBUsuario";//exibe utilizando a variável
-            SqlCommand comando = new SqlCommand("Select * From TBUsuario", conexao);
-            SqlDataReader leitor = comando.ExecuteReader();
+            string strinsereusu = string.Format("INSERT INTO TBUsuario (NomeUsu,Cargo,Data) VALUES ('{0}','{1}',CONVERT(DATETIME,'{2}',103))", vnome, vcargo, vdata);
+            new SqlCommand(strinsereusu, conexao).ExecuteNonQuery();
+
+            SqlDataReader leitor = new SqlCommand("SELECT * FROM TBUsuario", conexao).ExecuteReader();
+
             while (leitor.Read())
             {
-                Console.WriteLine("Id: {0}, Nome: {1}, Cargo: {2}, Data: {3}", leitor["IdUsu"], leitor["NomeUsu"], leitor["Cargo"], leitor["Data"]);
+                WriteLine("Id: {0}, Nome: {1}, Cargo: {2}, Data: {3}", leitor["IdUsu"], leitor["NomeUsu"], leitor["Cargo"], leitor["Data"]);
             }
-          // leitor.Read();
-           //Console.WriteLine("Id: {0}, Nome: {1}, Cargo: {2}, Data: {3}",
-          //    leitor["IdUsu"], leitor["NomeUsu"], leitor["Cargo"], leitor["Data"]);
-            Console.WriteLine("Conectado!");
-            Console.ReadLine();
+            ReadLine();
         }
     }
 }
