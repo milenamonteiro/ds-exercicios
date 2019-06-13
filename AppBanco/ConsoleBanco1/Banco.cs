@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 using System.Data;
+using System.Configuration;
 
 namespace ConsoleBanco1
 {
@@ -10,7 +11,7 @@ namespace ConsoleBanco1
 
         public Banco()
         {
-            conexao = new SqlConnection(@"Data Source=DESKTOP-UEGTNEB;Initial Catalog=DBExemplo;Persist Security Info=True;User ID=sa;Password=1234567");
+            conexao = new SqlConnection(ConfigurationManager.ConnectionStrings["conexao"].ConnectionString);
             conexao.Open();
         }
 
@@ -22,6 +23,7 @@ namespace ConsoleBanco1
                 CommandType = CommandType.Text,
                 Connection = conexao
             };
+            vComando.ExecuteNonQuery();
         }
 
         public SqlDataReader RetornaComando(string StrQuery)
