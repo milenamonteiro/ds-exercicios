@@ -16,3 +16,39 @@ T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanc
 T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.application
 T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe.manifest
 T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Crespi e Milena\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.application
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.config
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe.manifest
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.application
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.exe
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\ConsoleBanco1.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDLL.dll
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDominio.dll
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoADO.dll
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDLL.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDominio.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\bin\Debug\AppBancoADO.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe.manifest
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.application
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CopyComplete
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.exe
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDLL.dll
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDominio.dll
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoADO.dll
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDLL.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoDominio.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\bin\Debug\AppBancoADO.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\3 Bimestre\Milena e Wickbold\DS_Exercicios\AppBanco\ConsoleBanco1\obj\Debug\ConsoleBanco1.csproj.CopyComplete

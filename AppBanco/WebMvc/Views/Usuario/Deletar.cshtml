@@ -1,0 +1,57 @@
+﻿@model AppBancoDominio.Usuario
+
+@{
+    ViewBag.Title = "Apagar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Deletar</h2>
+
+<h3>Você tem certeza que deseja deletar isso?</h3>
+<div>
+    <h4>Usuário</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdUsu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdUsu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeUsu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeUsu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cargo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cargo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-danger" /> |
+            @Html.ActionLink("Voltar", "Index")
+        </div>
+    }
+</div>

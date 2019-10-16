@@ -72,7 +72,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Banco.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
@@ -80,7 +79,6 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="UsuarioDAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -101,6 +99,16 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppBancoDLL\AppBancoDLL.csproj">
+      <Project>{0157243A-ED39-497C-9948-C106BE25EF63}</Project>
+      <Name>AppBancoDLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppBancoDominio\AppBancoDominio.csproj">
+      <Project>{A29E9B63-2C74-4E59-91ED-CFBE85869AD8}</Project>
+      <Name>AppBancoDominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

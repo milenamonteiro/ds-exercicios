@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ConsoleBanco1.exe.manifest" size="3487">
+    <dependentAssembly dependencyType="install" codebase="ConsoleBanco1.exe.manifest" size="5413">
       <assemblyIdentity name="ConsoleBanco1.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>a/SJ/lQ5CTuJQ3LFVdjHihidcNnrXM4ARDy3PhlnQ8g=</dsig:DigestValue>
+        <dsig:DigestValue>DqlAZgH39Gio9Nh4DpRqFm8p4iu3gIjfkcsJTA4PJzo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

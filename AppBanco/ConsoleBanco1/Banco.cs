@@ -37,5 +37,16 @@ namespace ConsoleBanco1
             if (conexao.State == ConnectionState.Open)
                 conexao.Close();
         }
+
+        public int ExecScalar(string StrQuery)
+        {
+            var vComando = new SqlCommand
+            {
+                CommandText = StrQuery,
+                CommandType = CommandType.Text,
+                Connection = conexao
+            };
+            return (int) vComando.ExecuteScalar();
+        }
     }
 }

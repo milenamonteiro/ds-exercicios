@@ -1,0 +1,64 @@
+﻿@model IEnumerable<AppBancoDominio.Usuario>
+
+@{
+    ViewBag.Title = "Usuário";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Usuário</h2>
+
+<p>
+    @Html.ActionLink("Novo usuário", "Cadastrar")
+</p>
+
+@using (Html.BeginForm("Index", "Usuario", FormMethod.Get))
+{
+    <div>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @placeholder = "Digite um nome", @class = "col pao"})
+        <input type="submit" value="Pesquisar" class="btn botinho" />
+    </div>
+}
+
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdUsu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomeUsu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cargo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeUsu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cargo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.ActionLink("Alterar", "Editar", new { id = item.IdUsu }) |
+                @Html.ActionLink("Detalhes", "Detalhes", new { id = item.IdUsu }) |
+                @Html.ActionLink("Apagar", "Deletar", new { id = item.IdUsu })
+            </td>
+        </tr>
+    }
+
+</table>
