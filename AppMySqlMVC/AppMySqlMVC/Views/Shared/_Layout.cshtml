@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>AppMySqlMVC - @ViewBag.Title</title>
+
+    @Styles.Render("~/Assets/bootstrap/css/bootstrap.min.css")
+    @Styles.Render("~/Css/sb-admin-2.css")
+    @Styles.Render("~/Assets/font-awesome/css/font-awesome.min.css")
+    @*
+        <link href="~/Assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="~/Css/sb-admin-2.css" rel="stylesheet">
+    *@
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom:0">
+
+            <ul class="nav ">
+                <li class="dropdown">
+                    <a class="dropdown-toggle">
+                        <i class="fa fa-home fa-fw">
+                            
+                        </i>
+                        INÍCIO
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+
+        <div id="page-wrapper">
+            @RenderBody()
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
