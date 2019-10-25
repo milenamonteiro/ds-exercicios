@@ -14,6 +14,18 @@ namespace AppMySqlMVC
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
 
+            bundles.Add(new ScriptBundle("~/bundles/meusestilos").Include(
+                        "~/Assets/bootstrap/css/bootstrap.min.css",
+                        "~/Css/sb-admin-2.css",
+                        "~/Assets/font-awesome/css/font-awesome.min.css",
+                        "~/Scripts/modernizr-*"));
+
+            bundles.Add(new ScriptBundle("~/bundles/meusbots").Include(
+                        "~/Assets/jquery/jquery.min.js",
+                        "~/Css/sb-admin-2.css",
+                        "~/Assets/font-awesome/css/font-awesome.min.css",
+                        "~/Scripts/modernizr-*"));
+
             // Use the development version of Modernizr to develop with and learn from. Then, when you're
             // ready for production, use the build tool at https://modernizr.com to pick only the tests you need.
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
