@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/aspnet-mvc-5-app-with-sms-and-email-two-factor-authentication
+https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/users-sharing-accounts
+https://stackoverflow.com/questions/27581744/how-to-add-azure-ad-authentication-to-existing-asp-net-mvc-application
+https://social.msdn.microsoft.com/Forums/en-US/4e90d87f-434c-422a-b76b-1dac7d4dcc29/modify-web-api-2-project-from-quotno-authenticationquot-to-quotindividual-user-accountsquot?forum=adodotnetdataservices
+https://docs.microsoft.com/en-us/visualstudio/ide/work-with-multiple-user-accounts?view=vs-2019
+https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/developing-aspnet-apps-with-windows-azure-active-directory
+https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/aspnet-identity-using-mysql-storage-with-an-entityframework-mysql-provider
